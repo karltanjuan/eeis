@@ -1,0 +1,27 @@
+Instructions:
+Please read this first before running the system
+
+Install NPM
+https://nodejs.org/en/download/
+
+Install XAMPP
+https://www.apachefriends.org/index.html
+
+Upload eis.sql on your database
+
+After installation, Go to project directory
+open .env file and change the database config
+
+
+then open a terminal or command prompt
+
+Type: php artisan serve
+
+
+Open another terminal then
+
+Type: npm run watch
+
+Now run the system on localhost:8000 (depends which port you are using)
+
+

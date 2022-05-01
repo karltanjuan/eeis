@@ -1,0 +1,9 @@
+tables
+
+borrowed_items
+user_id int
+item_id int
+quantity int
+is_returned boolean
+created_at timestamp
+updated_at timestamp
